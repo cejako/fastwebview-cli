@@ -1,0 +1,9 @@
+/node_modules
+/dev
+/.pack-tmp
+/public
+/npm-debug.log
+.idea/
+*~
+%*
+.DS_Store

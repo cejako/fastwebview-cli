@@ -1,0 +1,20 @@
+{
+  "name": "fastwebview-cli",
+  "version": "1.0.0",
+  "description": "A Command Tool for an efficient solution to accelerating web speed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cejako/fastwebview-cli"
+  },
+  "keywords": [
+    "Web",
+    "Fast",
+    "fastwebview-cli"
+  ],
+  "author": "seanxie@tencent.com",
+  "license": "ISC"
+}
